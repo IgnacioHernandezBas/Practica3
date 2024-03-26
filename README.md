@@ -1,4 +1,4 @@
-# Practica3
+# Simple Bootstrap Page 
 Creación de un site empleando Bootstrap
 Enlace:  [https://ignaciohernandezbas.github.io/Practica3/] .
 
